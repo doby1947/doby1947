@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Surya</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently working on Java Full Stack Developer
+- 🌱 I’m currently learning Frameworks
 - 💬 Ask me anything about Java 
 - 📫 How to reach me:  chandragirisurya1947gmail.com
 - 😄 My website: https://suryachandragiri-portfolio.netlify.app
@@ -24,11 +24,8 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,javascript,linux,github,git,)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
 <br>
